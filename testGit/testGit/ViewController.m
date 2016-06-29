@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"hellow world");
-    
+    NSLog(@"你好，世界");
     
 }
 
