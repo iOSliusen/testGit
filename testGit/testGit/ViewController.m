@@ -17,9 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
     NSLog(@"hellow world!!!!");
     
-    
+
+    NSLog(@"hellow world");
+    NSLog(@"你好，世界");
+
 }
 
 - (void)didReceiveMemoryWarning {
